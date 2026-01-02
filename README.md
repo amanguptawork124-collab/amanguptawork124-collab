@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on development of cs fundamental<br>👯 I’m looking to collaborate on experienced people and innovative personalities<br>🤝 I’m looking for help with my future problems regarding technical issues<br>🌱 I’m currently developing my skillset in python for future dsa<br>💬 Ask me about <br>⚡ Fun fact
+🔭 I’m currently working on development of cs fundamental<br>👯 I’m looking to collaborate on experienced people and innovative personalities<br>🤝 I’m looking for help with my future problems regarding technical issues<br>🌱 I’m currently developing my skillset in python for future dsa<br>💬 
 
 
 ## 🌐 Socials:
